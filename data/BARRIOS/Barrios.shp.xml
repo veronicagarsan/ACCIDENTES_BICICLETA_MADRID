@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Metadata generated with CatMDEdit version 5.0-->
+<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xlink="http://www.w3.org/1999/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<gmd:fileIdentifier>
+		<gco:CharacterString>BARRIOS_3_3_1_ETRS89</gco:CharacterString>
+	</gmd:fileIdentifier>
+	<gmd:language>
+		<gmd:LanguageCode codeList="./resources/codeList.xml#LanguageCode" codeListValue="spa">spa</gmd:LanguageCode>
+	</gmd:language>
+	<gmd:characterSet>
+		<gmd:MD_CharacterSetCode codeList="./resources/codeList.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+	</gmd:characterSet>
+	<gmd:parentIdentifier gco:nilReason="missing"/>
+	<gmd:hierarchyLevel>
+		<gmd:MD_ScopeCode codeList="./resources/codeList.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+	</gmd:hierarchyLevel>
+	<gmd:hierarchyLevelName gco:nilReason="missing"/>
+	<gmd:contact>
+		<gmd:CI_ResponsibleParty>
+			<gmd:individualName>
+				<gco:CharacterString>Jefe de Departamento de Cartografía e Información Urbanística</gco:CharacterString>
+			</gmd:individualName>
+			<gmd:organisationName>
+				<gco:CharacterString>Ayuntamiento de Madrid. Área de Gobierno de Desarrollo Urbano Sostenible. Departamento de Cartografía e Información Urbanística</gco:CharacterString>
+			</gmd:organisationName>
+			<gmd:positionName>
+				<gco:CharacterString>Jefe de Departamento de Cartografía e Información Urbanística</gco:CharacterString>
+			</gmd:positionName>
+			<gmd:contactInfo>
+				<gmd:CI_Contact>
+					<gmd:phone>
+						<gmd:CI_Telephone>
+							<gmd:voice>
+								<gco:CharacterString>915883781</gco:CharacterString>
+							</gmd:voice>
+						</gmd:CI_Telephone>
+					</gmd:phone>
+					<gmd:address>
+						<gmd:CI_Address>
+							<gmd:deliveryPoint>
+								<gco:CharacterString>Calle de Ribera del Sena 21</gco:CharacterString>
+							</gmd:deliveryPoint>
+							<gmd:city>
+								<gco:CharacterString>Madrid</gco:CharacterString>
+							</gmd:city>
+							<gmd:administrativeArea>
+								<gco:CharacterString>Madrid</gco:CharacterString>
+							</gmd:administrativeArea>
+							<gmd:postalCode>
+								<gco:CharacterString>28042</gco:CharacterString>
+							</gmd:postalCode>
+							<gmd:country>
+								<gco:CharacterString>España</gco:CharacterString>
+							</gmd:country>
+							<gmd:electronicMailAddress>
+								<gco:CharacterString>www.madrid.es</gco:CharacterString>
+							</gmd:electronicMailAddress>
+						</gmd:CI_Address>
+					</gmd:address>
+					<gmd:onlineResource>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>www.madrid.es</gmd:URL>
+							</gmd:linkage>
+						</gmd:CI_OnlineResource>
+					</gmd:onlineResource>
+					<gmd:hoursOfService>
+						<gco:CharacterString>Lunes a Viernes de 9-14</gco:CharacterString>
+					</gmd:hoursOfService>
+				</gmd:CI_Contact>
+			</gmd:contactInfo>
+			<gmd:role>
+				<gmd:CI_RoleCode codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+			</gmd:role>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:dateStamp>
+		<gco:Date>2017-06-15</gco:Date>
+	</gmd:dateStamp>
+	<gmd:metadataStandardName>
+		<gco:CharacterString>ISO 19115</gco:CharacterString>
+	</gmd:metadataStandardName>
+	<gmd:metadataStandardVersion>
+		<gco:CharacterString>ISO19115:2003/Cor 1 2006</gco:CharacterString>
+	</gmd:metadataStandardVersion>
+	<gmd:referenceSystemInfo>
+		<gmd:MD_ReferenceSystem>
+			<gmd:referenceSystemIdentifier>
+				<gmd:RS_Identifier>
+					<gmd:authority>
+						<gmd:CI_Citation>
+							<gmd:title>
+								<gco:CharacterString>EUROPEAN PETROLEUM SURVEY GROUP (EPSG)</gco:CharacterString>
+							</gmd:title>
+							<gmd:alternateTitle>
+								<gco:CharacterString>ETRS89 UTM30N</gco:CharacterString>
+							</gmd:alternateTitle>
+							<gmd:date>
+								<gmd:CI_Date>
+									<gmd:date>
+										<gco:Date>1986-01-01</gco:Date>
+									</gmd:date>
+									<gmd:dateType>
+										<gmd:CI_DateTypeCode codeList="./resources/codeList.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+									</gmd:dateType>
+								</gmd:CI_Date>
+							</gmd:date>
+						</gmd:CI_Citation>
+					</gmd:authority>
+					<gmd:code>
+						<gco:CharacterString>EPSG:25830</gco:CharacterString>
+					</gmd:code>
+				</gmd:RS_Identifier>
+			</gmd:referenceSystemIdentifier>
+		</gmd:MD_ReferenceSystem>
+	</gmd:referenceSystemInfo>
+	<gmd:identificationInfo>
+		<gmd:MD_DataIdentification>
+			<gmd:citation>
+				<gmd:CI_Citation>
+					<gmd:title>
+						<gco:CharacterString>Polígonos de delimitación de BARRIO.</gco:CharacterString>
+					</gmd:title>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2017-06-15</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="./resources/codeList.xml#CI_DateTypeCode" codeListValue="Revisión">Revisión</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+				</gmd:CI_Citation>
+			</gmd:citation>
+			<gmd:abstract>
+				<gco:CharacterString>Delimitación de los 129  barrios del municipio de Madrid; se indica el nombre, el código de barrio y el código de distrito en el que se encuentra.
+                                                            		- v 4.0 Creación de nuevo barrio:  183.Ensanche de Vallecas en el Distrito 18.Villa de Vallecas conforme a su aprobación en 
+                                  			  El Pleno del Ayuntamiento de fecha 15-06-2017  BOAM nº 7927.
+                                                                                                                                            </gco:CharacterString>
+			</gmd:abstract>
+			<gmd:language>
+				<gmd:LanguageCode codeList="./resources/codeList.xml#LanguageCode" codeListValue="spa">spa</gmd:LanguageCode>
+			</gmd:language>
+			<gmd:characterSet gco:nilReason="missing"/>
+			<gmd:topicCategory gco:nilReason="missing"/>
+			<gmd:extent>
+				<gmd:EX_Extent>
+					<gmd:geographicElement>
+						<gmd:EX_GeographicBoundingBox>
+							<gmd:westBoundLongitude>
+								<gco:Decimal>-3.888585</gco:Decimal>
+							</gmd:westBoundLongitude>
+							<gmd:eastBoundLongitude>
+								<gco:Decimal>-3.516245</gco:Decimal>
+							</gmd:eastBoundLongitude>
+							<gmd:southBoundLatitude>
+								<gco:Decimal>40.311440</gco:Decimal>
+							</gmd:southBoundLatitude>
+							<gmd:northBoundLatitude>
+								<gco:Decimal>40.645133</gco:Decimal>
+							</gmd:northBoundLatitude>
+						</gmd:EX_GeographicBoundingBox>
+					</gmd:geographicElement>
+				</gmd:EX_Extent>
+			</gmd:extent>
+		</gmd:MD_DataIdentification>
+	</gmd:identificationInfo>
+	<gmd:distributionInfo>
+		<gmd:MD_Distribution>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>SHP</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>9.3</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributor>
+				<gmd:MD_Distributor>
+					<gmd:distributorContact>
+						<gmd:CI_ResponsibleParty>
+							<gmd:individualName>
+								<gco:CharacterString>Jefe de Departamento de Cartografía e Información Urbanística</gco:CharacterString>
+							</gmd:individualName>
+							<gmd:organisationName>
+								<gco:CharacterString>Ayuntamiento de Madrid. Área de Gobierno de Desarrollo Urbano Sostenible. Departamento de Cartografía e Información Urbanística.</gco:CharacterString>
+							</gmd:organisationName>
+							<gmd:positionName>
+								<gco:CharacterString>Jefe de Departamento de Cartografía e Información Urbanística.</gco:CharacterString>
+							</gmd:positionName>
+							<gmd:role>
+								<gmd:CI_RoleCode codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+							</gmd:role>
+						</gmd:CI_ResponsibleParty>
+					</gmd:distributorContact>
+					<gmd:distributorFormat>
+						<gmd:MD_Format>
+							<gmd:name>
+								<gco:CharacterString>SHP</gco:CharacterString>
+							</gmd:name>
+							<gmd:version>
+								<gco:CharacterString>9.3</gco:CharacterString>
+							</gmd:version>
+						</gmd:MD_Format>
+					</gmd:distributorFormat>
+				</gmd:MD_Distributor>
+			</gmd:distributor>
+			<gmd:transferOptions>
+				<gmd:MD_DigitalTransferOptions>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.madrid.es/</gmd:URL>
+							</gmd:linkage>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+				</gmd:MD_DigitalTransferOptions>
+			</gmd:transferOptions>
+		</gmd:MD_Distribution>
+	</gmd:distributionInfo>
+	<gmd:metadataMaintenance>
+		<gmd:MD_MaintenanceInformation>
+			<gmd:maintenanceAndUpdateFrequency>
+				<gmd:MD_MaintenanceFrequencyCode codeList="./resources/codeList.xml#MD_MaintenanceFrequencyCode" codeListValue="continual">continual</gmd:MD_MaintenanceFrequencyCode>
+			</gmd:maintenanceAndUpdateFrequency>
+		</gmd:MD_MaintenanceInformation>
+	</gmd:metadataMaintenance>
+	<idinfo><native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3000</native><descript><langdata Sync="TRUE">es</langdata></descript><citation><citeinfo><title Sync="TRUE">SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615</title><ftname Sync="TRUE">SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615</ftname><geoform Sync="TRUE">vector digital data</geoform><onlink Sync="TRUE">Server=CARTOGRAFIA_OWNER; Service=sde:sqlserver:SQL05VS05\SQL05VS05; Database=SIGMA_ETRS89; User=CARTOGRAFIA_OWNER; Version=sde.DEFAULT</onlink></citeinfo></citation><natvform Sync="TRUE">SDE Feature Class</natvform><spdom><lboundng><leftbc Sync="TRUE">424753.542000</leftbc><rightbc Sync="TRUE">456033.322600</rightbc><bottombc Sync="TRUE">4462565.990600</bottombc><topbc Sync="TRUE">4499365.429000</topbc></lboundng><bounding><westbc Sync="TRUE">-3.889903</westbc><eastbc Sync="TRUE">-3.517440</eastbc><northbc Sync="TRUE">40.643969</northbc><southbc Sync="TRUE">40.310222</southbc></bounding></spdom></idinfo><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="es"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">424753.542</westBL><eastBL Sync="TRUE">456033.3226</eastBL><northBL Sync="TRUE">4499365.429</northBL><southBL Sync="TRUE">4462565.9906</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-3.889903</westBL><eastBL Sync="TRUE">-3.51744</eastBL><northBL Sync="TRUE">40.643969</northBL><southBL Sync="TRUE">40.310222</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><metainfo><langmeta Sync="TRUE">es</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metd Sync="TRUE">20170719</metd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo><mdLang><languageCode Sync="TRUE" value="es"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc Sync="TRUE">Downloadable Data</resdesc><stdorder><digform><digtinfo><transize Sync="TRUE">0,266</transize><dssize Sync="TRUE">0,266</dssize></digtinfo></digform></stdorder></distinfo><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">Server=CARTOGRAFIA_OWNER; Service=sde:sqlserver:SQL05VS05\SQL05VS05; Database=SIGMA_ETRS89; User=CARTOGRAFIA_OWNER; Version=sde.DEFAULT</linkage><protocol Sync="TRUE">ArcSDE Connection</protocol></onLineSrc><transSize Sync="TRUE">0,266</transSize></distorTran><distorFormat><formatName Sync="TRUE">SDE Feature Class</formatName></distorFormat></distributor></distInfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615"><sdtstype Sync="TRUE">G-polygon</sdtstype><ptvctcnt Sync="TRUE">0</ptvctcnt></sdtsterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_ETRS_1989</geogcsn><projcsn Sync="TRUE">ETRS_1989_UTM_Zone_30N</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.000100</absres><ordres Sync="TRUE">0.000100</ordres></coordrep></planci><mapproj><mapprojn Sync="TRUE">Transverse Mercator</mapprojn><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-3.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></mapproj></planar><geodetic><horizdn Sync="TRUE">D_ETRS_1989</horizdn><ellips Sync="TRUE">Geodetic Reference System 80</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic></horizsys><vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">1.000000</altres></altsys></vertdef></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">ETRS_1989_UTM_Zone_30N</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed Name="SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615"><enttyp><enttypl Sync="TRUE">SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">OBJECTID_1</attrlabl><attalias Sync="TRUE">OBJECTID_1</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">OBJECTID</attrlabl><attalias Sync="TRUE">OBJECTID</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CODDIS</attrlabl><attalias Sync="TRUE">CODDIS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">NOMDIS</attrlabl><attalias Sync="TRUE">NOMDIS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CODBAR</attrlabl><attalias Sync="TRUE">CODBAR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CODDISTRIT</attrlabl><attalias Sync="TRUE">CODDISTRIT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CODBARRIO</attrlabl><attalias Sync="TRUE">CODBARRIO</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615.Area</attrlabl><attalias Sync="TRUE">SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615.Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">38</atprecis><attscale Sync="TRUE">8</attscale></attr><attr><attrlabl Sync="TRUE">NOMBRE</attrlabl><attalias Sync="TRUE">NOMBRE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape.area</attrlabl><attalias Sync="TRUE">Shape.area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape.len</attrlabl><attalias Sync="TRUE">Shape.len</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed></eainfo><Esri><SyncDate>20170719</SyncDate><SyncTime>11502100</SyncTime><ModDate>20170719</ModDate><ModTime>11502100</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20170719" Time="115022">FeatureClassToFeatureClass "S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp" "Database Connections\SIGMA_ETRS89_CARTOGRAFIA_OWNER.sde\SIGMA_ETRS89.CARTOGRAFIA.LIMITES_ADMINISTRATIVOS" BARRIOS_20170615 # "OBJECTID 'OBJECTID' true true false 10 Double 0 10 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,OBJECTID,-1,-1;CODDIS 'CODDIS' true true false 2 Text 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,CODDIS,-1,-1;NOMDIS 'NOMDIS' true true false 50 Text 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,NOMDIS,-1,-1;CODBAR 'CODBAR' true true false 4 Text 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,CODBAR,-1,-1;CODDISTRIT 'CODDISTRIT' true true false 2 Text 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,CODDISTRIT,-1,-1;CODBARRIO 'CODBARRIO' true true false 12 Text 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,CODBARRIO,-1,-1;NOMBRE 'NOMBRE' true true false 50 Text 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,NOMBRE,-1,-1;Area 'Area' true true false 19 Double 0 0 ,First,#,S:\CARTOGRAFIA\Término municipal y divisiones administrativas\3 2015 Rev Comunidad\3\03.Resultado\03BARRIOS\Barrios_20170615_P.shp,Area,-1,-1" # "Database Connections\SIGMA_ETRS89_CARTOGRAFIA_OWNER.sde\SIGMA_ETRS89.CARTOGRAFIA.LIMITES_ADMINISTRATIVOS\SIGMA_ETRS89.CARTOGRAFIA.BARRIOS_20170615"</Process></lineage></DataProperties><CreaDate>20170822</CreaDate><CreaTime>08385200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>ISO 19139 Metadata Implementation Specification GML3.2</ArcGISstyle><SyncOnce>TRUE</SyncOnce></Esri><mdDateSt Sync="TRUE">20170719</mdDateSt></gmd:MD_Metadata>
